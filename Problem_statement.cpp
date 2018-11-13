@@ -1,4 +1,4 @@
-//Staff Salary problem Solution.
+//Salary Processing.
 
 #include <iostream>
 #include <string>
