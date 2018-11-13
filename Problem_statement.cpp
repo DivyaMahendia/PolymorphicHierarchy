@@ -1,3 +1,5 @@
+//Staff Salary problem Solution.
+
 #include <iostream>
 #include <string>
 using namespace std;
