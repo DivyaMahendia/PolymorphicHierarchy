@@ -1,4 +1,5 @@
-//Static Binding and Dynamic Binding
+//Static Binding and Dynamic Binding.
+
 #include <iostream>
 using namespace std;
 class Base {
@@ -33,4 +34,4 @@ rd.g(); // D::g() -- Dynamic Binding
 return 0;
 }
 //pb->f(), pd->f() -- Static Binding ( which function it calls depends on the type of the pointer, known at the compiler time)
-//pb->g(), pd->g() -- Dynamic Binding (which function it calls depends on what object it is pointing to, at run time )
+//pb->g(), pd->g() -- Dynamic Binding (which function it calls depends on what object it is pointing to, at run time)
